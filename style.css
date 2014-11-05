@@ -1,101 +1,51 @@
 /*All*/
-
 body {
-
-	margin: 0;
-	padding: 0;
-	font-family: 'Lato', sans-serif;
-
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
 }
-
-h1,h2,h3,h4,h5,h6,ul {
-	
-	margin: 0;
-	padding: 0;
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+  margin: 0;
+  padding: 0;
 }
-
-
 .f-blanca {
-	
-	color: white;
-
+  color: white;
 }
-
-
 .f-verde {
-	
-	color: #74ab57;
-
+  color: #74ab57;
 }
-
-
 .f-gris {
-
-	color: #373737;
-
+  color: #373737;
 }
-
 .container {
-
-	width: 1000px;
-	margin: 0 auto;
-
+  width: 1000px;
+  margin: 0 auto;
 }
-
 .btn-white {
-
-	border: 1px solid white;
-	padding: 10px 20px;
-	color: white;
+  border: 1px solid white;
+  padding: 10px 20px;
+  color: white;
 }
-
 /* Fin All*/
-
-
 /*Header*/
-
-
 /* Fin Header*/
-
-
 /*Descripción*/
-
-
 /* Fin Descripción*/
-
-
 /*Producción Audivisual*/
-
-
 /* Fin Producción Audivisual*/
-
-
 /*Programación web y apps*/
-
-
 /* Fin Programación web y apps*/
-
-
 /*Diseño gráfico*/
-
-
 /* Fin Diseño gráfico*/
-
-
 /*Diseño 3d*/
-
-
 /* Fin Diseño 3d*/
-
-
 /*Campo de trabajo*/
-
-
 /* Fin Campo de trabajo*/
-
-
 /*Contacto*/
-
-
 /* Fin Contacto*/
