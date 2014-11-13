@@ -32,6 +32,9 @@ ul {
   padding: 10px 20px;
   color: white;
 }
+.clearfix {
+  clear: both;
+}
 /* Fin All*/
 /*Header*/
 /* Fin Header*/
