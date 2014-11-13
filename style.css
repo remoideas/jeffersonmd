@@ -42,6 +42,46 @@ ul {
 /*Programación web y apps*/
 /* Fin Programación web y apps*/
 /*Diseño gráfico*/
+section.grafico {
+  background: #369c89;
+  width: auto;
+  overflow: hidden;
+}
+section.grafico .borderup {
+  background: white;
+  width: auto;
+  height: 21px;
+}
+section.grafico .triangulo img {
+  margin-left: 50%;
+}
+section.grafico .imagenprincipal img {
+  height: 426px;
+  margin: 0;
+  float: right;
+  margin-right: -6%;
+}
+section.grafico .principal {
+  width: auto;
+  height: auto;
+}
+section.grafico .principal h2 {
+  font-size: 57px;
+  font-weight: 600;
+  color: white;
+  margin-left: 25px;
+}
+section.grafico .principal .subtext {
+  margin: 45px 0 0 68px;
+}
+section.grafico .principal .subtext p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #ecf2e9;
+}
+section.grafico .tabla img {
+  height: 90px;
+}
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
 /* Fin Diseño 3d*/
