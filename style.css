@@ -14,6 +14,22 @@ ul {
   margin: 0;
   padding: 0;
 }
+.titulo {
+  font-size: 50px;
+  font-weight: 300;
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+.texto {
+  font-size: 1.17em;
+  color: white;
+  font-weight: 300;
+}
+p {
+  font-size: 1.17em;
+  color: white;
+  font-weight: 300;
+}
 .f-blanca {
   color: white;
 }
@@ -72,12 +88,27 @@ header .slider .slider-opacity {
 }
 header .slider .container-center {
   text-align: center;
+  padding-top: 165px;
 }
 header .slider .container-center h1 {
   font-size: 50px;
   font-weight: 300;
   color: white;
   font-family: 'Lato', sans-serif;
+}
+header .slider .container-center h3 {
+  color: white;
+  font-weight: 300;
+}
+header .slider .container-center a {
+  border: 1px solid white;
+  border-radius: 3px;
+  background: transparent;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
 }
 /* Fin Header*/
 /*Descripción*/
@@ -189,22 +220,21 @@ section.realidad {
   height: 450px;
   background-size: cover;
 }
-section.realidad .texto {
-  float: left;
-  text-align: left;
-  color: black;
+section.web .texto {
+  float: right;
+  text-align: right;
+  color: white;
   width: 401px;
-  margin-top: 35px;
+  margin-top: 45px;
   margin-right: -55px;
 }
-section.realidad h2 {
-  font-size: 40px;
+section.web h2 {
+  font-size: 55px;
 }
-section.realidad h3 {
-  margin-top: 50px;
-  font-size: 19px;
+section.web h3 {
+  margin-top: 105px;
+  font-size: 25px;
   font-weight: 300;
-  line-height: 2;
 }
 /* Fin Diseño 3d*/
 /*Campo de trabajo*/
