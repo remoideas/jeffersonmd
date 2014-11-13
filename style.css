@@ -160,13 +160,8 @@ section.web .texto {
   margin-top: 45px;
   margin-right: -55px;
 }
-section.web h2 {
-  font-size: 55px;
-}
 section.web h3 {
   margin-top: 105px;
-  font-size: 25px;
-  font-weight: 300;
 }
 section.web .degradado {
   height: 450px;
@@ -201,7 +196,7 @@ section.grafico .triangulo img {
   margin-left: 50%;
 }
 section.grafico .imagenprincipal img {
-  height: 430px;
+  height: 426px;
   margin: 0;
   float: right;
   margin-right: -6%;
@@ -225,24 +220,15 @@ section.grafico .principal .subtext p {
   color: #ecf2e9;
 }
 section.grafico .tabla {
-  width: 180px;
-  text-align: center;
-  display: inline-table;
-  margin-left: 44px;
+  width: 141px;
 }
 section.grafico .tabla img {
-  height: 60px;
+  height: 50px;
 }
 section.grafico .tabla p {
   color: white;
-  font-size: 13px;
-  font-weight: regular;
-}
-section.grafico .borderdown {
-  background: white;
-  width: auto;
-  height: 21px;
-  position: absolute;
+  font-size: 11px;
+  text-align: center;
 }
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
@@ -251,21 +237,19 @@ section.realidad {
   height: 450px;
   background-size: cover;
 }
-section.web .texto {
-  float: right;
-  text-align: right;
-  color: white;
+section.realidad .texto {
+  float: left;
+  text-align: left;
+  color: black;
   width: 401px;
   margin-top: 45px;
   margin-right: -55px;
 }
-section.web h2 {
-  font-size: 55px;
-}
-section.web h3 {
-  margin-top: 105px;
-  font-size: 25px;
+section.realidad h3 {
+  margin-top: 45px;
+  font-size: 20px;
   font-weight: 300;
+  line-height: 2;
 }
 /* Fin Diseño 3d*/
 /*Campo de trabajo*/
