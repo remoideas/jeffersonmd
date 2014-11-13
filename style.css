@@ -152,16 +152,16 @@ section.web {
   height: 450px;
   background-size: cover;
 }
-section.web .texto {
+section.web .cuadro {
   float: right;
   text-align: right;
   color: white;
-  width: 401px;
+  width: 450px;
   margin-top: 45px;
   margin-right: -55px;
 }
 section.web h3 {
-  margin-top: 105px;
+  margin-top: 90px;
 }
 section.web .degradado {
   height: 450px;
