@@ -56,6 +56,33 @@ p {
 header .menu {
   width: 100%;
   text-align: center;
+  position: relative;
+}
+header .menu:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-top: 22px solid white;
+  position: absolute;
+  bottom: -21px;
+  left: 50%;
+  z-index: 99;
+  margin-left: -63px;
+}
+header .menu:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-top: 22px solid #74ab57;
+  position: absolute;
+  bottom: -24px;
+  left: 50%;
+  z-index: 99;
+  margin-left: -63px;
 }
 header .menu-content {
   display: inline-block;
@@ -108,7 +135,11 @@ header .slider .container-center a {
   color: white;
   text-decoration: none;
   display: inline-block;
-  margin-top: 15px;
+  margin-top: 30px;
+}
+header .slider .container-center a:hover {
+  background-color: white;
+  color: black;
 }
 /* Fin Header*/
 /*Descripción*/

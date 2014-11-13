@@ -91,6 +91,41 @@ header {
 
 		width: 100%;
 		text-align: center;
+		position: relative;
+
+		&:after {
+		
+			content: '';
+			width: 0; 
+			height: 0; 
+			border-left: 40px solid transparent;
+			border-right: 40px solid transparent;
+			
+			border-top: 22px solid white;
+			position: absolute;
+			bottom: -21px;
+			left: 50%;
+			z-index: 99;
+			margin-left: -63px;
+
+		}
+
+		&:before {
+		
+			content: '';
+			width: 0; 
+			height: 0; 
+			border-left: 40px solid transparent;
+			border-right: 40px solid transparent;
+			
+			border-top: 22px solid #74ab57;
+			position: absolute;
+			bottom: -24px;
+			left: 50%;
+			z-index: 99;
+			margin-left: -63px;
+
+		}
 
 	}
 	
@@ -171,7 +206,16 @@ header {
 				color: white;
 				text-decoration: none;
 				display: inline-block;
-				margin-top: 15px;
+				margin-top: 30px;
+
+				&:hover {
+		
+					
+					background-color: white;
+					color: black;
+
+
+				}
 		
 			}
 
