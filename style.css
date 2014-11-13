@@ -139,7 +139,7 @@ section.grafico .triangulo img {
   margin-left: 50%;
 }
 section.grafico .imagenprincipal img {
-  height: 426px;
+  height: 430px;
   margin: 0;
   float: right;
   margin-right: -6%;
@@ -152,21 +152,60 @@ section.grafico .principal h2 {
   font-size: 57px;
   font-weight: 600;
   color: white;
-  margin-left: 25px;
+  margin-left: 14px;
 }
 section.grafico .principal .subtext {
-  margin: 45px 0 0 68px;
+  margin: 35px 0 81px 54px;
 }
 section.grafico .principal .subtext p {
-  font-size: 24px;
-  font-weight: 400;
+  font-size: 21px;
+  font-weight: 500;
   color: #ecf2e9;
 }
+section.grafico .tabla {
+  width: 180px;
+  text-align: center;
+  display: inline-table;
+  margin-left: 44px;
+}
 section.grafico .tabla img {
-  height: 90px;
+  height: 60px;
+}
+section.grafico .tabla p {
+  color: white;
+  font-size: 13px;
+  font-weight: regular;
+}
+section.grafico .borderdown {
+  background: white;
+  width: auto;
+  height: 21px;
+  position: absolute;
 }
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
+section.realidad {
+  background-image: url(img/realidad/carro.png);
+  height: 450px;
+  background-size: cover;
+}
+section.realidad .texto {
+  float: left;
+  text-align: left;
+  color: black;
+  width: 401px;
+  margin-top: 35px;
+  margin-right: -55px;
+}
+section.realidad h2 {
+  font-size: 40px;
+}
+section.realidad h3 {
+  margin-top: 50px;
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 2;
+}
 /* Fin Diseño 3d*/
 /*Campo de trabajo*/
 /* Fin Campo de trabajo*/
