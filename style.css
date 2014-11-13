@@ -96,6 +96,9 @@ header .menu-content ul li a {
   color: #373737;
   text-decoration: none;
 }
+header .menu-content ul li a:hover {
+  color: #74ab57;
+}
 header .menu-brand {
   color: #74ab57;
   font-size: 20px;
@@ -110,12 +113,12 @@ header .slider {
   position: relative;
 }
 header .slider .slider-opacity {
-  height: 500px;
+  height: 530px;
   background-color: rgba(0, 0, 0, 0.39);
 }
 header .slider .container-center {
   text-align: center;
-  padding-top: 165px;
+  padding-top: 175px;
 }
 header .slider .container-center h1 {
   font-size: 50px;
