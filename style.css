@@ -146,6 +146,10 @@ header .slider .container-center a:hover {
 }
 /* Fin Header*/
 /*Descripción*/
+section.descripcion {
+  background: #fff;
+  height: 800px;
+}
 /* Fin Descripción*/
 /*Producción Audivisual*/
 /* Fin Producción Audivisual*/
