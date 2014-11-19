@@ -236,25 +236,31 @@ section.grafico .tabla p {
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
 section.realidad {
-  background-image: url(img/realidad/carro.png);
-  height: 450px;
-  background-size: cover;
+  height: 470px;
+  background-color: #aabbba;
 }
-section.realidad h2 {
+.fondo {
+  background-image: url(img/realidad/carrito.png);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+h2 {
   color: black;
 }
-section.realidad h3 {
+h3 {
   margin-top: 45px;
   font-size: 20px;
   font-weight: 300;
   line-height: 2;
+  margin-top: 15px;
+  color: black;
 }
-section.realidad .container-wrap {
+.container-wrap {
   float: left;
   text-align: left;
   color: black;
-  width: 401px;
-  margin-top: 45px;
+  width: 340px;
+  margin-top: 40px;
   margin-right: -55px;
 }
 /* Fin Diseño 3d*/
