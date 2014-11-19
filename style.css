@@ -151,16 +151,16 @@ header .slider .container-center a:hover {
 /* Fin Producción Audivisual*/
 /*Programación web y apps*/
 section.web {
-  background-image: url(img/web/fondo1.jpg);
-  height: 550px;
+  background-image: url(img/web/fondo3.jpg);
+  height: 460px;
   background-size: cover;
 }
 section.web .cuadro {
   float: right;
   text-align: right;
   color: white;
-  width: 550px;
-  margin-top: 95px;
+  width: 460px;
+  margin-top: 45px;
   margin-right: -55px;
 }
 section.web h3 {
@@ -169,7 +169,7 @@ section.web h3 {
   float: right;
 }
 section.web .degradado {
-  height: 550px;
+  height: 460px;
   background: -moz-linear-gradient(left, rgba(0, 0, 0, 0.09) 1%, #000000 63%, #000000 89%);
   /* FF3.6+ */
   background: -webkit-gradient(linear, left top, right top, color-stop(1%, rgba(0, 0, 0, 0.09)), color-stop(63%, #000000), color-stop(89%, #000000));
