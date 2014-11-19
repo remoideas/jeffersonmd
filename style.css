@@ -155,7 +155,7 @@ section.web {
   height: 450px;
   background-size: cover;
 }
-section.web .cuadro {
+section.web .texto {
   float: right;
   text-align: right;
   color: white;
