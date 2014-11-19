@@ -187,51 +187,20 @@ section.web .degradado {
 /*Diseño gráfico*/
 section.grafico {
   background: #369c89;
-  width: auto;
-  overflow: hidden;
+  height: 900px;
 }
-section.grafico .borderup {
-  background: white;
-  width: auto;
-  height: 21px;
+section.grafico .container-imagen {
+  background-image: url(img/grafico/principal.png);
+  background-position: right;
+  background-repeat: no-repeat;
 }
-section.grafico .triangulo img {
-  margin-left: 50%;
-}
-section.grafico .imagenprincipal img {
-  height: 426px;
+section.grafico .container-contenido {
+  padding: 64px 0px 35px 10px;
   margin: 0;
-  float: right;
-  margin-right: -6%;
 }
-section.grafico .principal {
-  width: auto;
-  height: auto;
-}
-section.grafico .principal h2 {
-  font-size: 57px;
-  font-weight: 600;
-  color: white;
-  margin-left: 14px;
-}
-section.grafico .principal .subtext {
-  margin: 35px 0 81px 54px;
-}
-section.grafico .principal .subtext p {
-  font-size: 21px;
-  font-weight: 500;
+section.grafico .subtext {
+  font-size: 20px;
   color: #ecf2e9;
-}
-section.grafico .tabla {
-  width: 141px;
-}
-section.grafico .tabla img {
-  height: 50px;
-}
-section.grafico .tabla p {
-  color: white;
-  font-size: 11px;
-  text-align: center;
 }
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
