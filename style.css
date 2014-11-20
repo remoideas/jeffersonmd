@@ -241,7 +241,6 @@ section.realidad {
   background-image: url(img/realidad/carro.png);
   background-position: right;
   background-repeat: no-repeat;
-  border-top: 2px solid white;
 }
 section.realidad .container-wrap {
   float: left;
