@@ -148,28 +148,26 @@ header .slider .container-center a:hover {
 /*Descripción*/
 section.descripcion {
   background: #fff;
-  height: 800px;
+  height: 400px;
 }
-section.descripcion .container .textogrande {
-  width: 380px;
-}
-section.descripcion .container .textogrande h2 {
-  font-size: 36px;
-  color: #888886;
+section.descripcion .container {
+  width: 900px;
+  margin: 0 auto;
 }
 section.descripcion .container .textochico {
-  width: 630px;
+  padding-top: 25px;
+  width: 100%;
   float: right;
 }
 section.descripcion .container .textochico p {
   color: #888886;
+  margin-bottom: 45px;
 }
 section.descripcion .container .menu {
-  padding-top: 80px;
+  text-align: center;
 }
 section.descripcion .container .menu img {
-  width: 250px;
-  height: 250px;
+  margin-right: 35px;
 }
 /* Fin Descripción*/
 /*Producción Audivisual*/
