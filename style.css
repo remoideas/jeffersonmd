@@ -292,26 +292,29 @@ section.grafico .tabla img {
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
 section.realidad {
+  height: 470px;
+  background-color: #b4c6c6;
   background-image: url(img/realidad/carro.png);
-  height: 450px;
-  background-size: cover;
-}
-section.realidad h2 {
-  color: black;
-}
-section.realidad h3 {
-  margin-top: 45px;
-  font-size: 20px;
-  font-weight: 300;
-  line-height: 2;
+  background-position: right;
+  background-repeat: no-repeat;
 }
 section.realidad .container-wrap {
   float: left;
   text-align: left;
   color: black;
-  width: 401px;
-  margin-top: 45px;
-  margin-right: -55px;
+  width: 39%;
+  margin-top: 40px;
+  margin-right: -30px;
+  margin-left: 90px;
+}
+section.realidad .container-wrap h2 {
+  color: black;
+}
+section.realidad .container-wrap h3 {
+  margin-top: 40px;
+  font-size: 20px;
+  font-weight: 300;
+  color: black;
 }
 /* Fin Diseño 3d*/
 /*Campo de trabajo*/
