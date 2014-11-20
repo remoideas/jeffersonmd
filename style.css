@@ -148,6 +148,26 @@ header .slider .container-center a:hover {
 /*Descripción*/
 /* Fin Descripción*/
 /*Producción Audivisual*/
+section.audiovisual {
+  background-image: url(img/audiovisual/fondoav.jpg);
+  height: 500px;
+  background-size: cover;
+  background-position: center center;
+}
+section.audiovisual .bck {
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+section.audiovisual .titulo {
+  color: white;
+  margin-top: 50px;
+  width: 200;
+}
+section.audiovisual h3 {
+  color: white;
+  width: ;
+}
 /* Fin Producción Audivisual*/
 /*Programación web y apps*/
 section.web {
