@@ -187,20 +187,33 @@ section.web .degradado {
 /*Diseño gráfico*/
 section.grafico {
   background: #369c89;
-  height: 900px;
+  height: 500px;
 }
 section.grafico .container-imagen {
-  background-image: url(img/grafico/principal.png);
+  background-image: url(img/grafico/principal2.png);
   background-position: right;
   background-repeat: no-repeat;
 }
 section.grafico .container-contenido {
-  padding: 64px 0px 35px 10px;
-  margin: 0;
+  padding: 64px 0px 0px 10px;
+  height: 436px;
+}
+section.grafico .cajas {
+  float: left;
 }
 section.grafico .subtext {
   font-size: 20px;
   color: #ecf2e9;
+}
+section.grafico .tabla {
+  width: 185px;
+  text-align: center;
+  font-size: 11px;
+  display: inline-table;
+  margin: 70px 0px 70px 40px;
+}
+section.grafico .tabla img {
+  height: 50px;
 }
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
