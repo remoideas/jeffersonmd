@@ -237,8 +237,8 @@ section.grafico .tabla p {
 /*Diseño 3d*/
 section.realidad {
   height: 470px;
-  background-color: #aabbba;
-  background-image: url(img/realidad/carrito.png);
+  background-color: #b4c6c6;
+  background-image: url(img/realidad/carro.png);
   background-position: right;
   background-repeat: no-repeat;
 }
@@ -260,6 +260,7 @@ h3 {
   width: 340px;
   margin-top: 40px;
   margin-right: -55px;
+  margin-left: 85px;
 }
 /* Fin Diseño 3d*/
 /*Campo de trabajo*/
