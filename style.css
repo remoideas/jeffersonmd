@@ -210,14 +210,14 @@ section.grafico .subtext {
   width: 850px;
 }
 section.grafico .subtext p {
-  margin-right: 199px;
+  width: 70%;
 }
 section.grafico .tabla {
   width: 185px;
   text-align: center;
   font-size: 11px;
   display: inline-table;
-  margin: 70px 40px 0 0;
+  margin: 40px 40px 0 0;
   color: white;
 }
 section.grafico .tabla img {
