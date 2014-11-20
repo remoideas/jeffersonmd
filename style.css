@@ -108,7 +108,7 @@ header .slider {
   border-top: solid 3px #74ab57;
   width: 100%;
   background-image: url(img/header/header.jpg);
-  background-position: center center;
+  background-position: bottom center;
   background-size: cover;
   position: relative;
 }
@@ -148,6 +148,11 @@ header .slider .container-center a:hover {
 /*Descripción*/
 /* Fin Descripción*/
 /*Producción Audivisual*/
+section.audiovisual {
+  background-image: url(img/audiovisual/fondoav.jpg);
+  height: 450px;
+  background-size: cover;
+}
 /* Fin Producción Audivisual*/
 /*Programación web y apps*/
 section.web {
