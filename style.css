@@ -202,15 +202,20 @@ section.grafico .cajas {
   float: left;
 }
 section.grafico .subtext {
-  font-size: 20px;
+  font-size: 18px;
   color: #ecf2e9;
+  width: 850px;
+}
+section.grafico .subtext p {
+  margin-right: 199px;
 }
 section.grafico .tabla {
   width: 185px;
   text-align: center;
   font-size: 11px;
   display: inline-table;
-  margin: 70px 0px 70px 40px;
+  margin: 70px 40px 0 0;
+  color: white;
 }
 section.grafico .tabla img {
   height: 50px;
