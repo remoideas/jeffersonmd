@@ -212,7 +212,7 @@ section.prueba .container-left h2 {
 /*Producción Audivisual*/
 section.audiovisual {
   background-image: url(img/audiovisual/fondoav.jpg);
-  height: 500px;
+  height: 550px;
   background-size: cover;
   background-position: center center;
 }
@@ -225,10 +225,12 @@ section.audiovisual .titulo {
   color: white;
   margin-top: 50px;
   width: 200;
+  margin-bottom: 20px;
 }
 section.audiovisual p {
   color: white;
   width: 200;
+  padding-top: 20px;
 }
 /* Fin Producción Audivisual*/
 /*Programación web y apps*/
