@@ -222,13 +222,13 @@ section.audiovisual .bck {
   text-align: right;
 }
 section.audiovisual .titulo {
-  color: white;
+  color: black;
   margin-top: 50px;
   width: 200;
   margin-bottom: 20px;
 }
 section.audiovisual p {
-  color: white;
+  color: black;
   width: 200;
   padding-top: 20px;
 }
