@@ -146,6 +146,29 @@ header .slider .container-center a:hover {
 }
 /* Fin Header*/
 /*Descripción*/
+section.descripcion {
+  background: #fff;
+  height: 400px;
+}
+section.descripcion .container {
+  width: 900px;
+  margin: 0 auto;
+}
+section.descripcion .container .textochico {
+  padding-top: 25px;
+  width: 100%;
+  float: right;
+}
+section.descripcion .container .textochico p {
+  color: #888886;
+  margin-bottom: 45px;
+}
+section.descripcion .container .menu {
+  text-align: center;
+}
+section.descripcion .container .menu img {
+  margin-right: 35px;
+}
 /* Fin Descripción*/
 /*Prueba*/
 section.prueba {
