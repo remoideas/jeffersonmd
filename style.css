@@ -150,6 +150,27 @@ section.descripcion {
   background: #fff;
   height: 800px;
 }
+section.descripcion .container .textogrande {
+  width: 380px;
+}
+section.descripcion .container .textogrande h2 {
+  font-size: 36px;
+  color: #888886;
+}
+section.descripcion .container .textochico {
+  width: 630px;
+  float: right;
+}
+section.descripcion .container .textochico p {
+  color: #888886;
+}
+section.descripcion .container .menu {
+  padding-top: 80px;
+}
+section.descripcion .container .menu img {
+  width: 250px;
+  height: 250px;
+}
 /* Fin Descripción*/
 /*Producción Audivisual*/
 /* Fin Producción Audivisual*/
