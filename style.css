@@ -152,6 +152,8 @@ header .slider .container-center a:hover {
 section.descripcion {
   background: #fff;
   height: 400px;
+  border-top: 10px;
+  border-color: #888886;
 }
 section.descripcion .container {
   width: 900px;
@@ -245,12 +247,11 @@ section.web .cuadro {
   text-align: right;
   color: white;
   width: 460px;
-  margin-top: 90px;
-  margin-right: -55px;
+  margin-top: 10%;
 }
-section.web h3 {
-  margin-top: 90px;
-  width: 366px;
+section.web p {
+  margin-top: 15%;
+  width: 80%;
   float: right;
 }
 section.web .degradado {
@@ -294,14 +295,14 @@ section.grafico .subtext {
   width: 850px;
 }
 section.grafico .subtext p {
-  margin-right: 199px;
+  width: 70%;
 }
 section.grafico .tabla {
   width: 185px;
   text-align: center;
   font-size: 11px;
   display: inline-table;
-  margin: 70px 40px 0 0;
+  margin: 40px 40px 0 0;
   color: white;
 }
 section.grafico .tabla img {
@@ -310,26 +311,23 @@ section.grafico .tabla img {
 /* Fin Diseño gráfico*/
 /*Diseño 3d*/
 section.realidad {
-  background-image: url(img/realidad/carro.png);
-  height: 450px;
-  background-size: cover;
-}
-section.realidad h2 {
-  color: black;
-}
-section.realidad h3 {
-  margin-top: 45px;
-  font-size: 20px;
-  font-weight: 300;
-  line-height: 2;
+  height: 470px;
+  background-color: #b4c6c6;
+  background-image: url(img/realidad/carrito.png);
+  background-position: left;
+  background-repeat: no-repeat;
 }
 section.realidad .container-wrap {
-  float: left;
-  text-align: left;
-  color: black;
-  width: 401px;
-  margin-top: 45px;
-  margin-right: -55px;
+  float: right;
+  text-align: right;
+  width: 39%;
+  margin-top: 40px;
+  margin-right: -10px;
+}
+section.realidad .container-wrap h3 {
+  margin-top: 40px;
+  font-size: 20px;
+  font-weight: 300;
 }
 /* Fin Diseño 3d*/
 /*Campo de trabajo*/
